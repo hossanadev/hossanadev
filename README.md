@@ -5,4 +5,4 @@
 - 👯 I’m looking to collaborate on any Java related project
 - 💬 Ask me about anything
 - 📫 How to reach me: hossanacc@gmail.com
-- ⚡ Fun fact: I'm genuis ✨
+- ⚡ Fact: I'm genuis ✨
