@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on a mobile and backend application using Java
-- 🌱 I learn everyday
-- 👯 I’m looking to collaborate on any Java related project
-- 💬 Ask me about anything
-- 📫 How to reach me: hossanacc@gmail.com
-- ⚡ Fact: I'm genuis ✨
+🔭 Developing full-stack apps using Java and Spring Boot
+🌱 Coding and problem-solving daily
+👯 Contributing to Java-related projects
+💬 Ask me about anything
+📫 Contact me at hossanacc@gmail.com
+⚡ Fun fact: I'm a genius! ✨
