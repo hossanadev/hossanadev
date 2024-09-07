@@ -1,6 +1,6 @@
 ## 👋
 
-- 🔭 Developing full-stack apps using Java and Spring Boot
+- 🔭 Software Engineer | Java & Spring Boot
 - 🌱 Coding and solving problems daily
 - 👯 Contributing to Java-related projects
 - 💬 Ask me about anything
