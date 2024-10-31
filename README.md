@@ -1,8 +1,8 @@
 ## 👋
 
-- 🔭 Backend Engineer | Java, Rust, JavaScript
+- 🔭 Back-End Engineer | Java, Spring Boot, JavaScript
 - 🌱 Coding and solving problems daily
-- 👯 Contributing to Java or Rust related projects
+- 👯 Contributing to Java related projects
 - 💬 Ask me about anything
 - 📫 Contact me at hossanacc@gmail.com
-- ⚡ I love Rust Programming ✨
+- ⚡ I like Rust Programming ✨
