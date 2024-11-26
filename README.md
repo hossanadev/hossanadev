@@ -12,6 +12,12 @@ Software Engineer with a primary focus on back-end development, committed to des
 
 ---
 
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=hossanadev&theme=react-dark&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
 <h3 align="center">🔗 Contact Me</h2>
 <p align="center">
     <a href="https://www.linkedin.com/in/hossanadev/"><img src="https://img.shields.io/badge/LinkedIn-164C78?style=plastic&logo=linkedin" height=27 alt="LinkedIn"></a>
