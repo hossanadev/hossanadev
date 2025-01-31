@@ -6,7 +6,8 @@
 
 <h3 align="center">👋🏽 About Me</h2>
 <p align="center">
-    Software Engineer specializing in backend design, development, and maintenance using Java.
+    ☑ Software Engineer (back-end developer) with expertise in Java programming and related technologies. <br />
+☑ Passionate about delivering secured, scalable, and reliable solutions that align with business objectives.
 </p>
 
 ---
@@ -27,5 +28,5 @@
 
 <h3 align="center">✨ My Motto</h2>
 <p align="center">
-    <i>“Be better every day, strive for excellence, and build solutions that matter.”</i>
+    <i>“Strive for excellence and build solutions that matter.”</i>
 </p>
