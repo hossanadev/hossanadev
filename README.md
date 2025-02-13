@@ -6,8 +6,7 @@
 
 <h3 align="center">👋🏽 About Me</h2>
 <p align="center">
-    ☑ Software Engineer (back-end developer) with expertise in Java programming and related technologies. <br />
-☑ Passionate about delivering secured, scalable, and reliable solutions that align with business objectives.
+    Software Engineer (Back-End Developer) specializing in designing and implementing robust, high-performance web and mobile applications using Java, Spring Boot, and related technologies. Passionate about writing clean, maintainable code, following best practices, and staying updated with relevant trends.
 </p>
 
 ---
@@ -18,11 +17,6 @@
     <a href="mailto:hossanadev@gmail.com"><img src="https://img.shields.io/badge/Email-164C78?style=plastic&logo=gmail" height=27 alt="Email"></a>
     <a href="https://twitter.com/hossanadev"><img src="https://img.shields.io/badge/Twitter-164C78?&style=plastic&logo=X" height=27 alt="Twitter"></a> 
 </p>
-
----
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hossanadev&layout=compact&theme=react&langs_count=8" alt="Top Languages" width="49%">
-</div>
 
 ---
 
