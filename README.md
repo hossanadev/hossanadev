@@ -17,10 +17,3 @@
     <a href="mailto:hossanadev@gmail.com"><img src="https://img.shields.io/badge/Email-164C78?style=plastic&logo=gmail" height=27 alt="Email"></a>
     <a href="https://twitter.com/hossanadev"><img src="https://img.shields.io/badge/Twitter-164C78?&style=plastic&logo=X" height=27 alt="Twitter"></a> 
 </p>
-
----
-
-<h3 align="center">✨ My Motto</h2>
-<p align="center">
-    <i>“Strive for excellence and build solutions that matter.”</i>
-</p>
