@@ -6,7 +6,7 @@
 
 <h3 align="center">👋🏽 About Me</h2>
 <p align="center">
-    Software Engineer (Back-End Developer) specializing in designing and implementing robust, high-performance web and mobile applications using Java, Spring Boot, and related technologies. Passionate about writing clean, maintainable code, following best practices, and staying updated with relevant trends.
+    Software Engineer (Back-End Developer) specializing in designing and implementing robust, high-performance applications using Java, Spring Boot, and related technologies. Passionate about writing clean, maintainable code, following best practices, and staying updated with relevant trends.
 </p>
 
 ---
