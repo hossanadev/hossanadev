@@ -6,7 +6,8 @@
 
 <h3 align="center">👋🏽 About Me</h2>
 <p align="center">
-    Software Engineer specializing in building reliable, high-performance back-end systems using Java. Passionate about solving complex problems, optimizing system performance, and writing maintainable code. I value building systems that scale, collaborating with cross-functional teams, improving both products and processes.
+    Software Engineer specializing in the development of reliable, high-performance back-end systems. Passionate about solving complex problems, optimizing performance, and writing clean, maintainable code. 
+Committed to building scalable architectures, collaborating across disciplines, and continuously improving products and processes.
 </p>
 
 ---
