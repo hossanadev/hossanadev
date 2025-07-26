@@ -6,8 +6,7 @@
 
 <h3 align="center">👋🏽 About Me</h2>
 <p align="center">
-    Backend Software Engineer specializing in the development of reliable, high-performance back-end systems. Passionate about solving complex problems, optimizing performance, and writing clean, maintainable code. 
-Committed to building scalable architectures, collaborating across disciplines, and continuously improving products and processes.
+    Software Engineer focused on building reliable, high-performance backend systems using Rust, Java, Spring Boot, SQL, etc. Experienced in developing scalable microservices and REST APIs in fintech and enterprise applications. Passionate about solving complex problems, improving both systems and team processes.
 </p>
 
 ---
