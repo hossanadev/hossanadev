@@ -6,7 +6,7 @@
 
 <h3 align="center">👋🏽 About Me</h2>
 <p align="center">
-    Software Engineer specializing in the development of reliable, high-performance back-end systems. Passionate about solving complex problems, optimizing performance, and writing clean, maintainable code. 
+    Backend Software Engineer specializing in the development of reliable, high-performance back-end systems. Passionate about solving complex problems, optimizing performance, and writing clean, maintainable code. 
 Committed to building scalable architectures, collaborating across disciplines, and continuously improving products and processes.
 </p>
 
