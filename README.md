@@ -6,7 +6,7 @@
 
 <h3 align="center">👋🏽 About Me</h2>
 <p align="center">
-    Software Engineer focused on building reliable, high-performance backend systems using Rust, Java, Spring Boot, SQL, etc. Experienced in developing scalable microservices and REST APIs in fintech and enterprise applications. Passionate about solving complex problems, improving both systems and team processes.
+    Software Engineer focused on building reliable, high-performance backend systems using Rust, Java, Spring Boot, SQL, etc.
 </p>
 
 ---
