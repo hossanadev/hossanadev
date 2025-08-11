@@ -29,12 +29,8 @@
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
     <!-- Kafka -->
     <img src="https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka">
-    <!-- Web3 -->
-    <img src="https://img.shields.io/badge/Web3-00FFC8?style=for-the-badge&logo=web3.js&logoColor=black" alt="Web3">
     <!-- Docker -->
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-    <!-- Kubernetes -->
-    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
     <!-- Maven -->
     <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven">
     <!-- Gradle -->
@@ -45,7 +41,7 @@
 
 <h3 align="center">🔗 Let's Connect!</h2>
 <p align="center">
-    <a href="https://www.linkedin.com/in/hossanadev/"><img src="https://img.shields.io/badge/LinkedIn-164C78?style=plastic&logo=linkedin" height=27 alt="LinkedIn"></a>
-    <a href="mailto:hossanadev@gmail.com"><img src="https://img.shields.io/badge/Email-164C78?style=plastic&logo=gmail" height=27 alt="Email"></a>
-    <a href="https://twitter.com/hossanadev"><img src="https://img.shields.io/badge/Twitter-164C78?&style=plastic&logo=X" height=27 alt="Twitter"></a> 
+    <a href="https://www.linkedin.com/in/hossanadev/"><img src="https://img.shields.io/badge/LinkedIn-164C78?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="mailto:hossanadev@gmail.com"><img src="https://img.shields.io/badge/Email-164C78?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+    <a href="https://twitter.com/hossanadev"><img src="https://img.shields.io/badge/Twitter-164C78?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"></a> 
 </p>
