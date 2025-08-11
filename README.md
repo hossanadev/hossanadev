@@ -21,8 +21,8 @@
     <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
     <!-- Actix Web -->
     <img src="https://img.shields.io/badge/Actix%20Web-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Actix Web">
-    <!-- Diesel ORM -->
-    <img src="https://img.shields.io/badge/Diesel%20ORM-FF6F00?style=for-the-badge&logo=rust&logoColor=white" alt="Diesel ORM">
+    <!-- SQLx -->
+    <img src="https://img.shields.io/badge/SQLx-3A3A3A?style=for-the-badge&logo=rust&logoColor=white" alt="SQLx">
     <!-- PostgreSQL -->
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
     <!-- MySQL -->
