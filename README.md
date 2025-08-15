@@ -14,15 +14,15 @@
 <h3 align="center">🛠 Tech Arsenal</h3>
 <p align="center">
     <!-- Rust -->
-    <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
+    <img src="https://img.shields.io/badge/Rust-DEA584?style=for-the-badge&logo=rust&logoColor=4B2E21" alt="Rust">
     <!-- Java -->
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
     <!-- Spring Boot -->
     <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
     <!-- Actix Web -->
-    <img src="https://img.shields.io/badge/Actix%20Web-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Actix Web">
+    <img src="https://img.shields.io/badge/Actix%20Web-DEA584?style=for-the-badge&logo=rust&logoColor=4B2E21" alt="Actix Web">
     <!-- SQLx -->
-    <img src="https://img.shields.io/badge/SQLx-3A3A3A?style=for-the-badge&logo=rust&logoColor=white" alt="SQLx">
+    <img src="https://img.shields.io/badge/SQLx-DEA584?style=for-the-badge&logo=rust&logoColor=4B2E21" alt="SQLx">
     <!-- PostgreSQL -->
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
     <!-- MySQL -->
@@ -32,7 +32,7 @@
     <!-- Docker -->
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
     <!-- Cargo -->
-    <img src="https://img.shields.io/badge/Cargo-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Cargo">
+    <img src="https://img.shields.io/badge/Cargo-DEA584?style=for-the-badge&logo=rust&logoColor=4B2E21" alt="Cargo">
     <!-- Maven -->
     <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven">
     <!-- Gradle -->
