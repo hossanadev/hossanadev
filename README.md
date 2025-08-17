@@ -52,7 +52,7 @@
 
 <h3 align="center">🔗 Let's Connect!</h2>
 <p align="center">
-    <a href="https://www.linkedin.com/in/hossanadev/"><img src="https://img.shields.io/badge/LinkedIn-164C78?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="mailto:hossanadev@gmail.com"><img src="https://img.shields.io/badge/Email-164C78?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-    <a href="https://twitter.com/hossanadev"><img src="https://img.shields.io/badge/Twitter-164C78?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"></a> 
+    <a href="https://www.linkedin.com/in/hossana/"><img src="https://img.shields.io/badge/LinkedIn-164C78?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="mailto:hossanacc@gmail.com"><img src="https://img.shields.io/badge/Email-164C78?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+    <a href="https://twitter.com/ana22oH"><img src="https://img.shields.io/badge/Twitter-164C78?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"></a> 
 </p>
