@@ -4,18 +4,6 @@
 
 ---
 
-<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
-
-<h3 align="center" style="font-family: 'Poppins', sans-serif; font-weight: 600; font-size: 1.8em;">
-    👋🏽 About Me
-</h3>
-<p align="center" style="font-family: 'Poppins', sans-serif; font-size: 1.1em; line-height: 1.6;">
-    Software Engineer focused on building reliable, high-performance backend systems using 
-    <strong>Rust</strong>, <strong>Java</strong>, and related technologies.
-</p>
-
----
-
 <h3 align="center">🛠 Tech Arsenal</h3>
 
 <!-- Programming Languages -->
