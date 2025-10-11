@@ -1,10 +1,8 @@
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=5500&color=164C78&vCenter=true&center=true&width=460&lines=Software+Engineer" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=5500&color=164C78&vCenter=true&center=true&width=460&lines=Software+Engineer" alt="Typing SVG">
 </div>
 
 ---
-
-<h3 align="center">🛠 Tech Arsenal</h3>
 
 <!-- Programming Languages -->
 <p align="center">
@@ -27,7 +25,7 @@
 
 ---
 
-<h3 align="center">🔗 Let's Connect!</h2>
+<!-- Socials -->
 <p align="center">
     <a href="https://www.linkedin.com/in/hossana/"><img src="https://img.shields.io/badge/LinkedIn-164C78?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="mailto:hossanacc@gmail.com"><img src="https://img.shields.io/badge/Email-164C78?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
